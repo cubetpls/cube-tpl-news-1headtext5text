@@ -1,0 +1,17 @@
+{
+	"id": "Q4qysNz4xLR",
+	"version": "1.0.0",
+	"name": "模板",
+	"idn": "",
+	"keywords": [],
+	"ie": 8,
+	"miniapp_only": false,
+	"disable_expand": true,
+	"launchimg": "assets/launchimg.png",
+	"files": [
+		"cube.tpl",
+		"cube.css",
+		"cube.js",
+    "assets/launchimg.png"
+	]
+}
