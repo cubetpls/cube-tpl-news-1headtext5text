@@ -13,7 +13,7 @@ cubetool init <cubeid> -t ntt360/cube-tpl-news-1headtext5text
 ```
 
 ## UI预览
-![标准资讯类模板 UI 预览图](https://raw.githubusercontent.com/ntt360/cube-tpl-news-1headtext5text/master/ui/ui.png)
+![标准资讯类模板 UI 预览图](./ui/ui.png)
 
 ## data格式
 ```json
